@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Desafio1</string>
+
+    <!-- MainActivity -->
+    <string name="bienvenida">Bienvenido a Mi Perfil</string>
+    <string name="iniciar">Iniciar</string>
+
+    <!-- FormActivity -->
+    <string name="nombres_apellidos">Nombres y Apellidos</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="telefono">Número de Teléfono</string>
+    <string name="fecha">Fecha de Nacimiento (dd/mm/yyyy)</string>
+    <string name="direccion">Dirección de Residencia</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="guardar">Guardar</string>
+    <string name="permiso_concedido">Permiso de cámara concedido</string>
+    <string name="permiso_denegado">No se puede acceder a la cámara</string>
+    <string name="esperando_permiso">Esperando permiso...</string>
+
+    <!-- SummaryActivity -->
+    <string name="nombre">Nombre:</string>
+    <string name="correo_mostrar">Correo:</string>
+    <string name="telefono_mostrar">Teléfono:</string>
+    <string name="fecha_mostrar">Fecha de nacimiento:</string>
+    <string name="direccion_mostrar">Dirección:</string>
+    <string name="regresar_inicio">Regresar al inicio</string>
+    <string name="nuevo_perfil">Nuevo perfil</string>
+</resources>
