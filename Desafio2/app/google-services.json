@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "503756199108",
+    "firebase_url": "https://fir-dbrealtime-da8fb-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-da8fb",
+    "storage_bucket": "fir-dbrealtime-da8fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503756199108:android:5aaa47f6fcde7370c5e591",
+        "android_client_info": {
+          "package_name": "com.example.desafio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfIiz58RRFG73xGN29p7tlnNNgn_jDRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503756199108:android:6a73b464e03e2792c5e591",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfIiz58RRFG73xGN29p7tlnNNgn_jDRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

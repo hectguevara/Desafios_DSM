@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio2</string>
+    <string name="welcome">Bienvenido %1$s</string>
+    <string name="menu_logout">Cerrar sesión</string>
+</resources>
